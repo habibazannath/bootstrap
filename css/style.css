@@ -1,0 +1,27 @@
+.box4{
+	min-height: 100px;
+	background-color: teal;
+	
+}
+.blog1{
+	
+}
+.blog3{
+	margin-top: 100px;
+	margin-bottom: 10px;
+}
+.blog2{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.box2{
+	min-height: 100px;
+	background-color: red;
+	/**border: 10px solid;**/
+}
+.box3{
+	min-height: 100px;
+	background-color: green;
+	/**border: 10px solid;**/
+}
